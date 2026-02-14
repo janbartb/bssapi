@@ -1,0 +1,381 @@
+{
+    "config": {
+        "isAnnonceer": false,
+        "aantSpelers": 5,
+        "cats": [
+            {
+                "id": "dir",
+                "naam": "Direct",
+                "spkNaam": "Direct"
+            },
+            {
+                "id": "1",
+                "naam": "1 band",
+                "spkNaam": "Eenband"
+            },
+            {
+                "id": "2",
+                "naam": "2 band",
+                "spkNaam": "Tweeband"
+            },
+            {
+                "id": "3",
+                "naam": "3 band",
+                "spkNaam": "Drieband"
+            },
+            {
+                "id": "los",
+                "naam": "Los band",
+                "spkNaam": "Losband"
+            }
+        ],
+        "carsObvMoyenne": true,
+        "vastAantCars": 10
+    },
+    "wedGespeeld": false,
+    "teams": [
+        {
+            "teamId": "",
+            "teamNaam": "TEAM A",
+            "metWit": true,
+            "actief": false,
+            "teamTsCar": 6,
+            "teamTsCarArr": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "teamTsMoy": 0.6,
+            "grid": {
+                "isAnnon": false,
+                "catHeight": 0,
+                "balContainerWidth": 4.75,
+                "balWidth": 4.25
+            },
+            "stand": {
+                "aantBrt": 2,
+                "totaal": {
+                    "cars": [
+                        1,
+                        2,
+                        3,
+                        0,
+                        1
+                    ]
+                },
+                "punten": 0,
+                "serie": {
+                    "cars": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "scores": [
+                    {
+                        "cars": [
+                            0,
+                            2,
+                            1,
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "cars": [
+                            1,
+                            0,
+                            2,
+                            0,
+                            0
+                        ]
+                    }
+                ]
+            },
+            "spelers": [
+                {
+                    "splId": "ES",
+                    "splNaam": "Eric Sanders",
+                    "splBordNaam": "Eric",
+                    "splSpreekNaam": "Eric",
+                    "metWit": true,
+                    "actief": false,
+                    "splTsCar": 6,
+                    "splTsCarArr": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "splTsMoy": 0.604,
+                    "inBSS": true,
+                    "grid": {
+                        "isAnnon": false,
+                        "catHeight": 0,
+                        "balContainerWidth": 3.0833333333333335,
+                        "balWidth": 2.9583333333333335
+                    },
+                    "stand": {
+                        "aantBrt": 1,
+                        "totaal": {
+                            "cars": [
+                                0,
+                                2,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        "punten": 0,
+                        "serie": {
+                            "cars": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "scores": [
+                            {
+                                "cars": [
+                                    0,
+                                    2,
+                                    1,
+                                    0,
+                                    1
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "splId": "JBB",
+                    "splNaam": "Jan Bart Biemans",
+                    "splBordNaam": "Jan Bart",
+                    "splSpreekNaam": "Jan Bart",
+                    "metWit": true,
+                    "actief": false,
+                    "splTsCar": 6,
+                    "splTsCarArr": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "splTsMoy": 0.596,
+                    "inBSS": true,
+                    "grid": {
+                        "isAnnon": false,
+                        "catHeight": 0,
+                        "balContainerWidth": 3.0833333333333335,
+                        "balWidth": 2.9583333333333335
+                    },
+                    "stand": {
+                        "aantBrt": 1,
+                        "totaal": {
+                            "cars": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        "punten": 0,
+                        "serie": {
+                            "cars": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "scores": [
+                            {
+                                "cars": [
+                                    1,
+                                    0,
+                                    2,
+                                    0,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "teamId": "",
+            "teamNaam": "TEAM B",
+            "metWit": true,
+            "actief": true,
+            "teamTsCar": 5,
+            "teamTsCarArr": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "teamTsMoy": 0.5479999999999999,
+            "grid": {
+                "isAnnon": false,
+                "catHeight": 0,
+                "balContainerWidth": 4.75,
+                "balWidth": 4.25
+            },
+            "stand": {
+                "aantBrt": 1,
+                "totaal": {
+                    "cars": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "punten": 0,
+                "serie": {
+                    "cars": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "scores": [
+                    {
+                        "cars": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                ]
+            },
+            "spelers": [
+                {
+                    "splId": "FvN",
+                    "splNaam": "Frans van Nunen",
+                    "splBordNaam": "Frans",
+                    "splSpreekNaam": "Frans",
+                    "metWit": true,
+                    "actief": false,
+                    "splTsCar": 5,
+                    "splTsCarArr": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "splTsMoy": 0.688,
+                    "inBSS": true,
+                    "grid": {
+                        "isAnnon": false,
+                        "catHeight": 0,
+                        "balContainerWidth": 3.125,
+                        "balWidth": 3
+                    },
+                    "stand": {
+                        "aantBrt": 1,
+                        "totaal": {
+                            "cars": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "punten": 0,
+                        "serie": {
+                            "cars": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "scores": [
+                            {
+                                "cars": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "splId": "CS",
+                    "splNaam": "Cordy Sanders",
+                    "splBordNaam": "Cordy",
+                    "splSpreekNaam": "Cordy",
+                    "metWit": true,
+                    "actief": true,
+                    "splTsCar": 5,
+                    "splTsCarArr": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "splTsMoy": 0.408,
+                    "inBSS": true,
+                    "grid": {
+                        "isAnnon": false,
+                        "catHeight": 0,
+                        "balContainerWidth": 3.125,
+                        "balWidth": 3
+                    },
+                    "stand": {
+                        "aantBrt": 0,
+                        "totaal": {
+                            "cars": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "punten": 0,
+                        "serie": {
+                            "cars": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "scores": []
+                    }
+                }
+            ]
+        }
+    ],
+    "spelers": []
+}

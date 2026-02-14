@@ -1,0 +1,194 @@
+[
+    {
+        "competitieId": "B1-1-1",
+        "knbbId": "7570",
+        "seizoen": "2024-2025",
+        "district": "kemp",
+        "spelsoort": "3BA",
+        "klasse": "B1",
+        "volgNr": 1,
+        "poule": 1,
+        "naam": "HAS Biljarts",
+        "maxBeurten": 60,
+        "teams": [
+            {
+                "verId": "bvd",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "nas",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "vh",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "karp",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "has",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "dab",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "mier",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "sj",
+                "teamId": "3BA-B1-1"
+            }
+        ]
+    },
+    {
+        "competitieId": "B2-2-1",
+        "knbbId": "7574",
+        "seizoen": "2024-2025",
+        "district": "kemp",
+        "spelsoort": "3BA",
+        "klasse": "B2",
+        "volgNr": 2,
+        "poule": 1,
+        "naam": "Café 't Hangijzer",
+        "maxBeurten": 60,
+        "teams": [
+            {
+                "verId": "bvd",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "ekk",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "karp",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "dab",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "dab",
+                "teamId": "3BA-B2-2"
+            },
+            {
+                "verId": "vmax",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "has",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "snv",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "mlb",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "horn",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "horn",
+                "teamId": "3BA-B2-2"
+            }
+        ]
+    },
+    {
+        "competitieId": "B1-2-1",
+        "knbbId": "7571",
+        "seizoen": "2024-2025",
+        "district": "kemp",
+        "spelsoort": "3BA",
+        "klasse": "B1",
+        "volgNr": 2,
+        "poule": 1,
+        "naam": "Burgmans Biljarts",
+        "maxBeurten": 60,
+        "teams": [
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-2"
+            },
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-3"
+            }
+        ]
+    },
+    {
+        "competitieId": "B2-1-1",
+        "knbbId": "7573",
+        "seizoen": "2024-2025",
+        "district": "kemp",
+        "spelsoort": "3BA",
+        "klasse": "B2",
+        "volgNr": 1,
+        "poule": 1,
+        "naam": "Den Hoek",
+        "maxBeurten": 60,
+        "teams": [
+            {
+                "verId": "cav",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "en",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "gr",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "hoek",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "hoek",
+                "teamId": "3BA-B2-2"
+            },
+            {
+                "verId": "hoek",
+                "teamId": "3BA-B2-3"
+            },
+            {
+                "verId": "mert",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "kost",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "beer",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "has",
+                "teamId": "3BA-B2-2"
+            },
+            {
+                "verId": "krijt",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "krijt",
+                "teamId": "3BA-B2-2"
+            }
+        ]
+    }
+]

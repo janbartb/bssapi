@@ -1,0 +1,268 @@
+[
+    {
+        "tabId": "3BA-B1",
+        "spelsoort": "3BA",
+        "klasse": "B1",
+        "minimum": 23,
+        "moyennes": [
+            {
+                "vanaf": 0.48,
+                "cars": 25,
+                "filled": true
+            },
+            {
+                "vanaf": 0.52,
+                "cars": 27,
+                "filled": true
+            },
+            {
+                "vanaf": 0.56,
+                "cars": 29,
+                "filled": true
+            },
+            {
+                "vanaf": 0.6,
+                "cars": 31,
+                "filled": true
+            },
+            {
+                "vanaf": 0.64,
+                "cars": 33,
+                "filled": true
+            },
+            {
+                "vanaf": 0.68,
+                "cars": 35,
+                "filled": true
+            },
+            {
+                "vanaf": 0.72,
+                "cars": 37,
+                "filled": true
+            },
+            {
+                "vanaf": 0.76,
+                "cars": 39,
+                "filled": true
+            },
+            {
+                "vanaf": 0.8,
+                "cars": 42,
+                "filled": true
+            },
+            {
+                "vanaf": 0.9,
+                "cars": 47,
+                "filled": true
+            },
+            {
+                "vanaf": 1,
+                "cars": 52,
+                "filled": true
+            },
+            {
+                "vanaf": 1.1,
+                "cars": 57,
+                "filled": true
+            },
+            {
+                "vanaf": 1.2,
+                "cars": 62,
+                "filled": true
+            },
+            {
+                "vanaf": 1.3,
+                "cars": 70,
+                "filled": true
+            },
+            {
+                "vanaf": 1.5,
+                "cars": 80,
+                "filled": true
+            },
+            {
+                "vanaf": 1.7,
+                "cars": 90,
+                "filled": true
+            },
+            {
+                "vanaf": 1.9,
+                "cars": 100,
+                "filled": true
+            },
+            {
+                "vanaf": 2.1,
+                "cars": 110,
+                "filled": true
+            },
+            {
+                "vanaf": 2.3,
+                "cars": 120,
+                "filled": true
+            },
+            {
+                "vanaf": 2.5,
+                "cars": 135,
+                "filled": true
+            },
+            {
+                "vanaf": 3,
+                "cars": 150,
+                "filled": true
+            }
+        ]
+    },
+    {
+        "tabId": "3BA-B2",
+        "spelsoort": "3BA",
+        "klasse": "B2",
+        "minimum": 15,
+        "moyennes": [
+            {
+                "vanaf": 0.3,
+                "cars": 16,
+                "filled": true
+            },
+            {
+                "vanaf": 0.32,
+                "cars": 17,
+                "filled": true
+            },
+            {
+                "vanaf": 0.34,
+                "cars": 18,
+                "filled": true
+            },
+            {
+                "vanaf": 0.36,
+                "cars": 19,
+                "filled": true
+            },
+            {
+                "vanaf": 0.38,
+                "cars": 20,
+                "filled": true
+            },
+            {
+                "vanaf": 0.4,
+                "cars": 21,
+                "filled": true
+            },
+            {
+                "vanaf": 0.42,
+                "cars": 22,
+                "filled": true
+            },
+            {
+                "vanaf": 0.44,
+                "cars": 23,
+                "filled": true
+            },
+            {
+                "vanaf": 0.48,
+                "cars": 25,
+                "filled": true
+            },
+            {
+                "vanaf": 0.52,
+                "cars": 27,
+                "filled": true
+            },
+            {
+                "vanaf": 0.56,
+                "cars": 29,
+                "filled": true
+            },
+            {
+                "vanaf": 0.6,
+                "cars": 31,
+                "filled": true
+            },
+            {
+                "vanaf": 0.64,
+                "cars": 33,
+                "filled": true
+            },
+            {
+                "vanaf": 0.68,
+                "cars": 35,
+                "filled": true
+            },
+            {
+                "vanaf": 0.72,
+                "cars": 37,
+                "filled": true
+            },
+            {
+                "vanaf": 0.76,
+                "cars": 39,
+                "filled": true
+            },
+            {
+                "vanaf": 0.8,
+                "cars": 42,
+                "filled": true
+            },
+            {
+                "vanaf": 0.9,
+                "cars": 47,
+                "filled": true
+            },
+            {
+                "vanaf": 1,
+                "cars": 52,
+                "filled": true
+            },
+            {
+                "vanaf": 1.1,
+                "cars": 57,
+                "filled": true
+            },
+            {
+                "vanaf": 1.2,
+                "cars": 62,
+                "filled": true
+            },
+            {
+                "vanaf": 1.3,
+                "cars": 70,
+                "filled": true
+            },
+            {
+                "vanaf": 1.5,
+                "cars": 80,
+                "filled": true
+            },
+            {
+                "vanaf": 1.7,
+                "cars": 90,
+                "filled": true
+            },
+            {
+                "vanaf": 1.9,
+                "cars": 100,
+                "filled": true
+            },
+            {
+                "vanaf": 2.1,
+                "cars": 110,
+                "filled": true
+            },
+            {
+                "vanaf": 2.3,
+                "cars": 120,
+                "filled": true
+            },
+            {
+                "vanaf": 2.5,
+                "cars": 135,
+                "filled": true
+            },
+            {
+                "vanaf": 3,
+                "cars": 150,
+                "filled": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+{
+    "compId": "B2-2-1",
+    "klasse": "B2",
+    "maxBeurten": 60,
+    "matchOver": false,
+    "idxSpelerActief": 0,
+    "spelers": [
+        {
+            "splId": "JBB",
+            "splNaam": "Jan Bart Biemans",
+            "verId": "bvd",
+            "teamId": "3BA-B2-1",
+            "splBordNaam": "Jan Bart",
+            "splSpreekNaam": "Jan Bart",
+            "isActief": false,
+            "metWit": true,
+            "splTsGem": 0.596,
+            "splTsCar": 29,
+            "stand": {
+                "hoogSer": 0,
+                "aantCar": 0,
+                "aantBrt": 0,
+                "gemiddelde": 0,
+                "serie": 0,
+                "punten": 0,
+                "score": [],
+                "laatste5brt": []
+            }
+        },
+        {
+            "splId": "AB",
+            "splNaam": "Ad Benink",
+            "verId": "bvd",
+            "teamId": "3BA-B2-1",
+            "splBordNaam": "Ad",
+            "splSpreekNaam": "Ad",
+            "isActief": false,
+            "metWit": false,
+            "splTsGem": 0.313,
+            "splTsCar": 16,
+            "stand": {
+                "hoogSer": 0,
+                "aantCar": 0,
+                "aantBrt": 0,
+                "gemiddelde": 0,
+                "serie": 0,
+                "punten": 0,
+                "score": [],
+                "laatste5brt": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "spelsoort": "3BA",
+    "vereniging": "",
+    "seizoen": "",
+    "district": {
+        "disId": "kemp",
+        "knbbId": "86",
+        "disNaam": "Kempenland"
+    },
+    "id": 0,
+    "klasse": "",
+    "speech": true,
+    "stem": "Google Nederlands",
+    "notify": false,
+    "version": "1.0.0"
+}

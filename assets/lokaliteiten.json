@@ -1,0 +1,142 @@
+[
+    {
+        "lokId": "bvd",
+        "knbbId": "23925",
+        "naam": "Bij van Dijk",
+        "adres": "Bogardeind 71",
+        "postcode": "5664 EB",
+        "plaats": "Geldrop",
+        "telefoon": "040-2855700",
+        "email": ""
+    },
+    {
+        "lokId": "turf",
+        "knbbId": "23972",
+        "naam": "D'n Turfberg",
+        "adres": "Van der Clusenstraat 4 A",
+        "postcode": "5553 EL",
+        "plaats": "Valkenswaard",
+        "telefoon": "040-2010360",
+        "email": ""
+    },
+    {
+        "lokId": "vh",
+        "knbbId": "22295",
+        "naam": "`t Vrijthof",
+        "adres": "Molenstraat 6",
+        "postcode": "5688 AD",
+        "plaats": "Oirschot",
+        "telefoon": "0499-571442",
+        "email": "hetvrijthofoirschot@gmail.com"
+    },
+    {
+        "lokId": "karp",
+        "knbbId": "23628",
+        "naam": "Café De Karper",
+        "adres": "Walvisstraat 34",
+        "postcode": "5706 CT",
+        "plaats": "Helmond",
+        "telefoon": "0492-537855",
+        "email": "patricia.enrene2@live.nl"
+    },
+    {
+        "lokId": "teut",
+        "knbbId": "24120",
+        "naam": "Dorpshuis d’n Teut",
+        "adres": "Dorpsstraat 55",
+        "postcode": "5556 VL",
+        "plaats": "Valkenswaard",
+        "telefoon": "040-2068342",
+        "email": ""
+    },
+    {
+        "lokId": "cav",
+        "knbbId": "20003",
+        "naam": "Het Caves",
+        "adres": "Veneind 5",
+        "postcode": "5513 NE",
+        "plaats": "Wintelre",
+        "telefoon": "040-2051805",
+        "email": "info@golfschoolhetcaves.nl"
+    },
+    {
+        "lokId": "pool",
+        "knbbId": "20708",
+        "naam": "Poolcentrum Geldrop",
+        "adres": "Bogaardeind 112",
+        "postcode": "5664 EL",
+        "plaats": "Geldrop",
+        "telefoon": "06-35637434",
+        "email": "info@poolcentrum-geldrop.nl"
+    },
+    {
+        "lokId": "csj",
+        "knbbId": "24022",
+        "naam": "Café Sint Joris",
+        "adres": "Heuvel 7",
+        "postcode": "5502 AJ",
+        "plaats": "Veldhoven",
+        "telefoon": "",
+        "email": ""
+    },
+    {
+        "lokId": "molb",
+        "knbbId": "24069",
+        "naam": "Café De Molenberg",
+        "adres": "Valkenswaardseweg 29 C",
+        "postcode": "5595 XB",
+        "plaats": "Leende",
+        "telefoon": "06-21369966",
+        "email": ""
+    },
+    {
+        "lokId": "quin",
+        "knbbId": "23602",
+        "naam": "Café Quincy",
+        "adres": "Markt 25",
+        "postcode": "6021 CE",
+        "plaats": "Budel",
+        "telefoon": "0495-492846",
+        "email": ""
+    },
+    {
+        "lokId": "bd",
+        "knbbId": "22771",
+        "naam": "Biljartvereniging D'ekker",
+        "adres": "Nieuwstraat 44",
+        "postcode": "5683 KC",
+        "plaats": "Best",
+        "telefoon": "0499-371283",
+        "email": ""
+    },
+    {
+        "lokId": "mert",
+        "knbbId": "22990",
+        "naam": "Café De Mert",
+        "adres": "Markt 12",
+        "postcode": "5521 AL",
+        "plaats": "Eersel",
+        "telefoon": "0497-512286",
+        "email": "info@cafedemert.nl"
+    },
+    {
+        "lokId": "kost",
+        "knbbId": "22664",
+        "naam": "Café-zaal de Koster",
+        "adres": "Wilhelminalaan 54",
+        "postcode": "5541 CX",
+        "plaats": "Reusel",
+        "telefoon": "0497845013",
+        "email": ""
+    },
+    {
+        "lokId": "db",
+        "knbbId": "23958",
+        "naam": "De Bongerd",
+        "adres": "Asteroidenlaan 2 a",
+        "postcode": "5694 WJ",
+        "plaats": "Son en breugel",
+        "telefoon": "0499-472106",
+        "email": ""
+    }
+]

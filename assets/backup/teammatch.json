@@ -1,0 +1,298 @@
+{
+    "compId": "B1-1-1",
+    "klasse": "B1",
+    "maxBeurten": 60,
+    "matchOver": false,
+    "idxTeamActief": 0,
+    "idxWedActief": 0,
+    "gameOver": [
+        true,
+        true,
+        false
+    ],
+    "teams": [
+        {
+            "isManual": false,
+            "verId": "bvd",
+            "verNaam": "",
+            "teamId": "3BA-B1-1",
+            "teamNaam": "B.V.D. 1",
+            "klasse": "B1",
+            "spelers": [
+                {
+                    "splId": "ES",
+                    "splNaam": "Eric Sanders",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Eric",
+                    "splSpreekNaam": "Eric",
+                    "isActief": true,
+                    "metWit": true,
+                    "splTsGem": 0.56,
+                    "splTsCar": 29,
+                    "stand": {
+                        "hoogSer": 13,
+                        "aantCar": 29,
+                        "aantBrt": 9,
+                        "gemiddelde": 3.2222222222222223,
+                        "serie": 0,
+                        "punten": 11,
+                        "score": [
+                            2,
+                            1,
+                            0,
+                            3,
+                            1,
+                            2,
+                            5,
+                            13,
+                            2
+                        ],
+                        "laatste5brt": [
+                            1,
+                            2,
+                            5,
+                            13,
+                            2
+                        ]
+                    }
+                },
+                {
+                    "splId": "JBB",
+                    "splNaam": "Jan Bart Biemans",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Jan Bart",
+                    "splSpreekNaam": "Jan Bart",
+                    "isActief": true,
+                    "metWit": true,
+                    "splTsGem": 0.645,
+                    "splTsCar": 33,
+                    "stand": {
+                        "hoogSer": 9,
+                        "aantCar": 31,
+                        "aantBrt": 25,
+                        "gemiddelde": 1.24,
+                        "serie": 0,
+                        "punten": 10,
+                        "score": [
+                            0,
+                            1,
+                            1,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            9,
+                            8,
+                            9,
+                            2
+                        ],
+                        "laatste5brt": [
+                            0,
+                            9,
+                            8,
+                            9,
+                            2
+                        ]
+                    }
+                },
+                {
+                    "splId": "FvN",
+                    "splNaam": "Frans van Nunen",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Frans",
+                    "splSpreekNaam": "Frans",
+                    "isActief": true,
+                    "metWit": true,
+                    "splTsGem": 0.739,
+                    "splTsCar": 37,
+                    "stand": {
+                        "hoogSer": 3,
+                        "aantCar": 4,
+                        "aantBrt": 11,
+                        "gemiddelde": 0.36363636363636365,
+                        "serie": 0,
+                        "punten": 1,
+                        "score": [
+                            0,
+                            0,
+                            0,
+                            3,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "laatste5brt": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "isManual": false,
+            "verId": "has",
+            "verNaam": "",
+            "teamId": "3BA-B1-1",
+            "teamNaam": "H.A.S. 1",
+            "klasse": "B1",
+            "spelers": [
+                {
+                    "splId": "JW",
+                    "splNaam": "Jac Willems",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Jac",
+                    "splSpreekNaam": "Jac",
+                    "isActief": true,
+                    "metWit": false,
+                    "splTsGem": 0.758,
+                    "splTsCar": 37,
+                    "stand": {
+                        "hoogSer": 3,
+                        "aantCar": 7,
+                        "aantBrt": 9,
+                        "gemiddelde": 0.7777777777777778,
+                        "serie": 0,
+                        "punten": 2,
+                        "score": [
+                            1,
+                            0,
+                            0,
+                            3,
+                            0,
+                            0,
+                            3,
+                            0,
+                            0
+                        ],
+                        "laatste5brt": [
+                            0,
+                            0,
+                            3,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "splId": "LH",
+                    "splNaam": "Ludo Hermans",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Ludo",
+                    "splSpreekNaam": "Ludo",
+                    "isActief": true,
+                    "metWit": false,
+                    "splTsGem": 0.828,
+                    "splTsCar": 42,
+                    "stand": {
+                        "hoogSer": 10,
+                        "aantCar": 42,
+                        "aantBrt": 25,
+                        "gemiddelde": 1.68,
+                        "serie": 0,
+                        "punten": 11,
+                        "score": [
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            4,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            0,
+                            8,
+                            9,
+                            9,
+                            10
+                        ],
+                        "laatste5brt": [
+                            0,
+                            8,
+                            9,
+                            9,
+                            10
+                        ]
+                    }
+                },
+                {
+                    "splId": "RB",
+                    "splNaam": "Rene Bakermans",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Rene",
+                    "splSpreekNaam": "Renee",
+                    "isActief": false,
+                    "metWit": false,
+                    "splTsGem": 0.871,
+                    "splTsCar": 42,
+                    "stand": {
+                        "hoogSer": 6,
+                        "aantCar": 8,
+                        "aantBrt": 11,
+                        "gemiddelde": 0.7272727272727273,
+                        "serie": 0,
+                        "punten": 1,
+                        "score": [
+                            1,
+                            1,
+                            6,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "laatste5brt": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

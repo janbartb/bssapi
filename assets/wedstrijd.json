@@ -1,0 +1,111 @@
+{
+    "spel": "standaard",
+    "aantSpelers": 2,
+    "regels": {
+        "idxOptie": 0,
+        "vastAantBrt": 1,
+        "vastAantCar": 1,
+        "vijfdeAantCar": 5,
+        "maxBeurten": 60,
+        "moyAantBrt": 1,
+        "knbbKlasse": "B2"
+    },
+    "telling": {
+        "idxOptie": 0,
+        "winstPunten": 2,
+        "gelijkPunten": 1,
+        "bovenMoyPunten": 1
+    },
+    "opslaanInComp": false,
+    "wedOpgeslagen": false,
+    "wedGespeeld": false,
+    "spelers": [
+        {
+            "splId": "FvN",
+            "splNaam": "Frans van Nunen",
+            "splBordNaam": "Frans",
+            "splSpreekNaam": "Frans",
+            "metWit": true,
+            "actief": true,
+            "splTsMoy": 0.688,
+            "splTsCar": 35,
+            "splTsBrt": 0,
+            "stand": {
+                "aantCar": 7,
+                "aantBrt": 6,
+                "gemiddelde": 1.1666666666666667,
+                "hoogSer": 3,
+                "punten": 3,
+                "serie": 0,
+                "score": [
+                    1,
+                    0,
+                    1,
+                    2,
+                    0,
+                    3
+                ],
+                "laatste5brt": [
+                    0,
+                    1,
+                    2,
+                    0,
+                    3
+                ],
+                "voortgang": 20,
+                "enNog": -1,
+                "moyView": "1,167",
+                "percView": "169,57",
+                "serView": "0"
+            },
+            "teamTsCar": 0,
+            "teamAantCar": 0,
+            "teamMaxCar": 0,
+            "inBSS": true
+        },
+        {
+            "splId": "ES",
+            "splNaam": "Eric Sanders",
+            "splBordNaam": "Eric",
+            "splSpreekNaam": "Eric",
+            "metWit": false,
+            "actief": false,
+            "splTsMoy": 0.604,
+            "splTsCar": 31,
+            "splTsBrt": 0,
+            "stand": {
+                "aantCar": 4,
+                "aantBrt": 6,
+                "gemiddelde": 0.6666666666666666,
+                "hoogSer": 2,
+                "punten": 2,
+                "serie": 0,
+                "score": [
+                    0,
+                    2,
+                    0,
+                    1,
+                    1,
+                    0
+                ],
+                "laatste5brt": [
+                    2,
+                    0,
+                    1,
+                    1,
+                    0
+                ],
+                "voortgang": 12,
+                "enNog": -1,
+                "moyView": "0,667",
+                "percView": "110,38",
+                "serView": "0"
+            },
+            "teamTsCar": 0,
+            "teamAantCar": 0,
+            "teamMaxCar": 0,
+            "inBSS": true
+        }
+    ],
+    "teams": []
+}

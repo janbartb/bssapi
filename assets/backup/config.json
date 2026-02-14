@@ -1,0 +1,16 @@
+{
+    "spelsoort": "3BA",
+    "vereniging": "bvd",
+    "seizoen": "2024-2025",
+    "district": {
+        "disId": "kemp",
+        "knbbId": "86",
+        "disNaam": "Kempenland"
+    },
+    "id": 1737122683248.7173,
+    "klasse": "B1",
+    "speech": true,
+    "stem": "Google Nederlands",
+    "notify": false,
+    "version": "1.0.0"
+}

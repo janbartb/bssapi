@@ -1,0 +1,3323 @@
+[
+    {
+        "id": "FvN",
+        "knbbId": "209447",
+        "anaam": "Nunen",
+        "vnaam": "Frans",
+        "tvoeg": "van",
+        "spreeknaam": "Frans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.739
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "JBB",
+        "knbbId": "225901",
+        "anaam": "Biemans",
+        "vnaam": "Jan Bart",
+        "tvoeg": "",
+        "spreeknaam": "Jan Bart",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.645
+            }
+        ],
+        "knbbMoy": "0.645",
+        "verenigingIds": [
+            "bvd"
+        ],
+        "moyenne": 0.645,
+        "bordnaam": "Jan Bart"
+    },
+    {
+        "id": "ES",
+        "knbbId": "237075",
+        "anaam": "Sanders",
+        "vnaam": "Eric",
+        "tvoeg": "",
+        "spreeknaam": "Eric",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.56
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ],
+        "bordnaam": "Eric",
+        "moyenne": 0.56
+    },
+    {
+        "id": "EvD",
+        "knbbId": "110614",
+        "anaam": "Dijk",
+        "vnaam": "Evert",
+        "tvoeg": "van",
+        "spreeknaam": "Evert",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.462
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "BJ",
+        "knbbId": "205660",
+        "anaam": "Jacobs",
+        "vnaam": "Björn",
+        "tvoeg": "",
+        "spreeknaam": "Björn",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.43
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "CS",
+        "knbbId": "179871",
+        "anaam": "Sanders",
+        "vnaam": "Cordy",
+        "tvoeg": "",
+        "spreeknaam": "Cordy",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.429
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "FvD",
+        "knbbId": "216909",
+        "anaam": "Dijk",
+        "vnaam": "Fred",
+        "tvoeg": "van",
+        "spreeknaam": "Fred",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.388
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "AvG",
+        "knbbId": "237352",
+        "anaam": "Grootheest",
+        "vnaam": "Arthur",
+        "tvoeg": "van",
+        "spreeknaam": "Arthur",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.381
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "AB",
+        "knbbId": "384668",
+        "anaam": "Benink",
+        "vnaam": "Ad",
+        "tvoeg": "",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.292
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "bvd"
+        ]
+    },
+    {
+        "id": "MR",
+        "knbbId": "152894",
+        "anaam": "Roefs",
+        "vnaam": "Martijn",
+        "tvoeg": "",
+        "spreeknaam": "Martijn",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.982
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "nas"
+        ]
+    },
+    {
+        "id": "RB",
+        "knbbId": "265776",
+        "anaam": "Bakermans",
+        "vnaam": "Rene",
+        "tvoeg": "",
+        "spreeknaam": "Renee",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.871
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "nas",
+            "has"
+        ],
+        "bordnaam": "Rene",
+        "moyenne": 0.871
+    },
+    {
+        "id": "BS",
+        "knbbId": "201240",
+        "anaam": "Schaeken",
+        "vnaam": "Bjorn",
+        "tvoeg": "",
+        "spreeknaam": "Bjorn",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.709
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "nas"
+        ]
+    },
+    {
+        "id": "BvV",
+        "knbbId": "225509",
+        "anaam": "Veghel",
+        "vnaam": "Berry",
+        "tvoeg": "van",
+        "spreeknaam": "Berry",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.561
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "nas"
+        ]
+    },
+    {
+        "id": "PR",
+        "knbbId": "165402",
+        "anaam": "Roefs",
+        "vnaam": "Piet",
+        "tvoeg": "",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.545
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "nas"
+        ]
+    },
+    {
+        "id": "FG",
+        "knbbId": "152523",
+        "anaam": "Gielen",
+        "vnaam": "Frank",
+        "tvoeg": "",
+        "spreeknaam": "Frank",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.514
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "nas",
+            "krijt"
+        ]
+    },
+    {
+        "id": "MvB",
+        "knbbId": "126644",
+        "anaam": "Berkel",
+        "vnaam": "Marcel",
+        "tvoeg": "van",
+        "spreeknaam": "Marcel",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 1.113
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "JC",
+        "knbbId": "159355",
+        "anaam": "Coppelmans",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.787
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "RvH",
+        "knbbId": "208904",
+        "anaam": "Hak",
+        "vnaam": "Rene",
+        "tvoeg": "van",
+        "spreeknaam": "Rene",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.781
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "MM",
+        "knbbId": "118221",
+        "anaam": "Mertens",
+        "vnaam": "Mark",
+        "tvoeg": "",
+        "spreeknaam": "Mark",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.716
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "JvD",
+        "knbbId": "159356",
+        "anaam": "Drunen",
+        "vnaam": "Jan",
+        "tvoeg": "van",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.643
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "BvG",
+        "knbbId": "129948",
+        "anaam": "Griensven",
+        "vnaam": "Berrie",
+        "tvoeg": "van",
+        "spreeknaam": "Berrie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.638
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "EV",
+        "knbbId": "170962",
+        "anaam": "Vorstenbosch",
+        "vnaam": "Erwin",
+        "tvoeg": "",
+        "spreeknaam": "Erwin",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.52
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vh"
+        ]
+    },
+    {
+        "id": "CS2",
+        "knbbId": "151266",
+        "anaam": "Steenbakkers",
+        "vnaam": "Christian",
+        "tvoeg": "",
+        "spreeknaam": "Christian",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.95
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "RvB",
+        "knbbId": "180519",
+        "anaam": "Bokhoven",
+        "vnaam": "René",
+        "tvoeg": "van",
+        "spreeknaam": "René",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.648
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "MV",
+        "knbbId": "371771",
+        "anaam": "Vogels",
+        "vnaam": "Marco",
+        "tvoeg": "",
+        "spreeknaam": "Marco",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.567
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "MB",
+        "knbbId": "133577",
+        "anaam": "Boetzkes",
+        "vnaam": "Michel",
+        "tvoeg": "",
+        "spreeknaam": "Michel",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.56
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "AK",
+        "knbbId": "121961",
+        "anaam": "Klokgieter",
+        "vnaam": "Antoon",
+        "tvoeg": "",
+        "spreeknaam": "Antoon",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.539
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "JvdS",
+        "knbbId": "209440",
+        "anaam": "Steen",
+        "vnaam": "Jan",
+        "tvoeg": "van der",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.511
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "AvdB",
+        "knbbId": "237054",
+        "anaam": "Bosch",
+        "vnaam": "Arjan",
+        "tvoeg": "van den",
+        "spreeknaam": "Arjan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.462
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "SR",
+        "knbbId": "120073",
+        "anaam": "Rosmulder",
+        "vnaam": "Sjaak",
+        "tvoeg": "",
+        "spreeknaam": "Sjaak",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.45
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "EK",
+        "knbbId": "263883",
+        "anaam": "Kouwenberg",
+        "vnaam": "Erwin",
+        "tvoeg": "",
+        "spreeknaam": "Erwin",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.414
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "PC",
+        "knbbId": "385334",
+        "anaam": "Coolen",
+        "vnaam": "Pieter",
+        "tvoeg": "",
+        "spreeknaam": "Pieter",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.3
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "RG",
+        "knbbId": "387548",
+        "anaam": "Gasparinho",
+        "vnaam": "Rogerio",
+        "tvoeg": "",
+        "spreeknaam": "Rogerio",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.785
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "HvZ",
+        "knbbId": "229685",
+        "anaam": "Zantvoort",
+        "vnaam": "Harrie",
+        "tvoeg": "van",
+        "spreeknaam": "Harrie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.71
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "HP",
+        "knbbId": "158922",
+        "anaam": "Peeters",
+        "vnaam": "Hennie",
+        "tvoeg": "",
+        "spreeknaam": "Hennie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.659
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "HvK",
+        "knbbId": "236187",
+        "anaam": "Kollenburg",
+        "vnaam": "Henk",
+        "tvoeg": "van",
+        "spreeknaam": "Henk",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.643
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "JdB",
+        "knbbId": "140300",
+        "anaam": "Brie",
+        "vnaam": "Jos",
+        "tvoeg": "de",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.633
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "AT",
+        "knbbId": "230087",
+        "anaam": "Teixeira",
+        "vnaam": "Americo",
+        "tvoeg": "",
+        "spreeknaam": "Americo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.514
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "LH",
+        "knbbId": "208933",
+        "anaam": "Hermans",
+        "vnaam": "Ludo",
+        "tvoeg": "",
+        "spreeknaam": "Ludo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.828
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "AH",
+        "knbbId": "151555",
+        "anaam": "Huibers",
+        "vnaam": "Arnoud",
+        "tvoeg": "",
+        "spreeknaam": "Arnoud",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.819
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "JW",
+        "knbbId": "140301",
+        "anaam": "Willems",
+        "vnaam": "Jac",
+        "tvoeg": "",
+        "spreeknaam": "Jac",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.758
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "JH",
+        "knbbId": "159852",
+        "anaam": "Houbraken",
+        "vnaam": "Johan",
+        "tvoeg": "",
+        "spreeknaam": "Johan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.704
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "RB2",
+        "knbbId": "222229",
+        "anaam": "Broers",
+        "vnaam": "Rene",
+        "tvoeg": "",
+        "spreeknaam": "Rene",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.583
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "JW2",
+        "knbbId": "143970",
+        "anaam": "Wils",
+        "vnaam": "Jos",
+        "tvoeg": "",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.517
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "JR",
+        "knbbId": "225988",
+        "anaam": "Ras",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.444
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "GdG",
+        "knbbId": "150393",
+        "anaam": "Greef",
+        "vnaam": "Gerben",
+        "tvoeg": "de",
+        "spreeknaam": "Gerben",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.839
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "PS",
+        "knbbId": "172082",
+        "anaam": "Smits",
+        "vnaam": "Piet",
+        "tvoeg": "",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.752
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "LvdB",
+        "knbbId": "164916",
+        "anaam": "Broeke",
+        "vnaam": "Louis",
+        "tvoeg": "van den",
+        "spreeknaam": "Louis",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.655
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "WvD",
+        "knbbId": "218205",
+        "anaam": "Deursen",
+        "vnaam": "Wim",
+        "tvoeg": "van",
+        "spreeknaam": "Wim",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.582
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "TvZ",
+        "knbbId": "147759",
+        "anaam": "Zantvoort",
+        "vnaam": "Toine",
+        "tvoeg": "van",
+        "spreeknaam": "Toine",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.573
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "WG",
+        "knbbId": "110616",
+        "anaam": "Gosen",
+        "vnaam": "Wim",
+        "tvoeg": "",
+        "spreeknaam": "Wim",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.531
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "AvD",
+        "knbbId": "217814",
+        "anaam": "Deursen",
+        "vnaam": "Alex",
+        "tvoeg": "van",
+        "spreeknaam": "Alex",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.48
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "TT",
+        "knbbId": "164135",
+        "anaam": "Toonen-Dekkers",
+        "vnaam": "Theo",
+        "tvoeg": "",
+        "spreeknaam": "Theo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.472
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "JJ",
+        "knbbId": "134888",
+        "anaam": "Janssen",
+        "vnaam": "Juul",
+        "tvoeg": "",
+        "spreeknaam": "Juul",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.752
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "BvdW",
+        "knbbId": "151649",
+        "anaam": "Wijgert",
+        "vnaam": "Bart",
+        "tvoeg": "van de",
+        "spreeknaam": "Bart",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.632
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "HJ",
+        "knbbId": "162771",
+        "anaam": "Janssen",
+        "vnaam": "Hennie",
+        "tvoeg": "",
+        "spreeknaam": "Hennie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.57
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "HC",
+        "knbbId": "387320",
+        "anaam": "Cremers",
+        "vnaam": "Hans",
+        "tvoeg": "",
+        "spreeknaam": "Hans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.559
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "JL",
+        "knbbId": "127055",
+        "anaam": "Lalji",
+        "vnaam": "John",
+        "tvoeg": "",
+        "spreeknaam": "John",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.449
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "TD",
+        "knbbId": "385823",
+        "anaam": "Driessen",
+        "vnaam": "Theo",
+        "tvoeg": "",
+        "spreeknaam": "Theo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.443
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "JvdN",
+        "knbbId": "271340",
+        "anaam": "Nieuwenhof",
+        "vnaam": "Jos",
+        "tvoeg": "van den",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.361
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mier"
+        ]
+    },
+    {
+        "id": "PvK",
+        "knbbId": "384111",
+        "anaam": "Keulen",
+        "vnaam": "Piet",
+        "tvoeg": "van",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 1.021
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "RC",
+        "knbbId": "270794",
+        "anaam": "Caers",
+        "vnaam": "Raymond",
+        "tvoeg": "",
+        "spreeknaam": "Raymond",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.799
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "JC2",
+        "knbbId": "224839",
+        "anaam": "Caers",
+        "vnaam": "Joep",
+        "tvoeg": "",
+        "spreeknaam": "Joep",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.77
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "TvK",
+        "knbbId": "384112",
+        "anaam": "Keulen",
+        "vnaam": "Ton",
+        "tvoeg": "van",
+        "spreeknaam": "Ton",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.743
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "TVD",
+        "knbbId": "387525",
+        "anaam": "Dooren",
+        "vnaam": "Theo",
+        "tvoeg": "Van",
+        "spreeknaam": "Theo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.739
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "WT",
+        "knbbId": "270796",
+        "anaam": "Tegelaars",
+        "vnaam": "Willie",
+        "tvoeg": "",
+        "spreeknaam": "Willie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.711
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "JWB",
+        "knbbId": "388648",
+        "anaam": "Bosch",
+        "vnaam": "Jan Willem",
+        "tvoeg": "",
+        "spreeknaam": "Jan Willem",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.6
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "JvdM",
+        "knbbId": "384113",
+        "anaam": "Meeren",
+        "vnaam": "Jan",
+        "tvoeg": "van der",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.52
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "sj"
+        ]
+    },
+    {
+        "id": "TvR",
+        "knbbId": "137972",
+        "anaam": "Roosmalen",
+        "vnaam": "Theo",
+        "tvoeg": "van",
+        "spreeknaam": "Theo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.468
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "ekk"
+        ]
+    },
+    {
+        "id": "LvB",
+        "knbbId": "271544",
+        "anaam": "Beers",
+        "vnaam": "Lambert",
+        "tvoeg": "van",
+        "spreeknaam": "Lambert",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.42
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "ekk"
+        ]
+    },
+    {
+        "id": "MS",
+        "knbbId": "122107",
+        "anaam": "Schenkels",
+        "vnaam": "Mieke",
+        "tvoeg": "",
+        "spreeknaam": "Mieke",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.341
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "ekk"
+        ]
+    },
+    {
+        "id": "WD",
+        "knbbId": "271595",
+        "anaam": "Duvigneau",
+        "vnaam": "Willem",
+        "tvoeg": "",
+        "spreeknaam": "Willem",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.322
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "ekk"
+        ]
+    },
+    {
+        "id": "EZ",
+        "knbbId": "384248",
+        "anaam": "Zwanenberg",
+        "vnaam": "Eric",
+        "tvoeg": "",
+        "spreeknaam": "Eric",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.407
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "MS2",
+        "knbbId": "222721",
+        "anaam": "Schuurman",
+        "vnaam": "Marcel",
+        "tvoeg": "",
+        "spreeknaam": "Marcel",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.3
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "karp"
+        ]
+    },
+    {
+        "id": "GA",
+        "knbbId": "163332",
+        "anaam": "Adelaars",
+        "vnaam": "Gerrie",
+        "tvoeg": "",
+        "spreeknaam": "Gerrie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.508
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "MB2",
+        "knbbId": "263833",
+        "anaam": "Bartels",
+        "vnaam": "Mark",
+        "tvoeg": "",
+        "spreeknaam": "Mark",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.492
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "LvW",
+        "knbbId": "263831",
+        "anaam": "Wijnen",
+        "vnaam": "Luc",
+        "tvoeg": "van",
+        "spreeknaam": "Luc",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.388
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "LB",
+        "knbbId": "263832",
+        "anaam": "Blomjous",
+        "vnaam": "Leo",
+        "tvoeg": "",
+        "spreeknaam": "Leo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "MK",
+        "knbbId": "383975",
+        "anaam": "Konings",
+        "vnaam": "Mario",
+        "tvoeg": "",
+        "spreeknaam": "Mario",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab",
+            "snv"
+        ]
+    },
+    {
+        "id": "JT",
+        "knbbId": "277547",
+        "anaam": "Timmermans",
+        "vnaam": "John",
+        "tvoeg": "",
+        "spreeknaam": "John",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.368
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "CB",
+        "knbbId": "175036",
+        "anaam": "Blomjous",
+        "vnaam": "Cees",
+        "tvoeg": "",
+        "spreeknaam": "Cees",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.32
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "HvW",
+        "knbbId": "209451",
+        "anaam": "Wanrooy",
+        "vnaam": "Harrie",
+        "tvoeg": "van",
+        "spreeknaam": "Harrie",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.257
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "MvB2",
+        "knbbId": "383853",
+        "anaam": "Bussel",
+        "vnaam": "Maarten",
+        "tvoeg": "van",
+        "spreeknaam": "Maarten",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.505
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "FV",
+        "knbbId": "383854",
+        "anaam": "Verhagen",
+        "vnaam": "Fred",
+        "tvoeg": "",
+        "spreeknaam": "Fred",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.493
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "RvB2",
+        "knbbId": "383855",
+        "anaam": "Bussel",
+        "vnaam": "Rico",
+        "tvoeg": "van",
+        "spreeknaam": "Rico",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.437
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "JR2",
+        "knbbId": "387520",
+        "anaam": "Renders",
+        "vnaam": "Jos",
+        "tvoeg": "",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.329
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "dab"
+        ]
+    },
+    {
+        "id": "FJ",
+        "knbbId": "122631",
+        "anaam": "Junier",
+        "vnaam": "Frank",
+        "tvoeg": "",
+        "spreeknaam": "Frank",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.764
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vmax"
+        ]
+    },
+    {
+        "id": "EvdM",
+        "knbbId": "150265",
+        "anaam": "Merbel",
+        "vnaam": "Edwin",
+        "tvoeg": "van de",
+        "spreeknaam": "Edwin",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.573
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vmax"
+        ]
+    },
+    {
+        "id": "HR",
+        "knbbId": "148424",
+        "anaam": "Raats",
+        "vnaam": "Henny",
+        "tvoeg": "",
+        "spreeknaam": "Henny",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.44
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vmax"
+        ]
+    },
+    {
+        "id": "RS",
+        "knbbId": "204900",
+        "anaam": "Sanders",
+        "vnaam": "René",
+        "tvoeg": "",
+        "spreeknaam": "René",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.42
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vmax"
+        ]
+    },
+    {
+        "id": "AV",
+        "knbbId": "223748",
+        "anaam": "Verkuylen",
+        "vnaam": "Ad",
+        "tvoeg": "",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vmax"
+        ]
+    },
+    {
+        "id": "JvdA",
+        "knbbId": "214033",
+        "anaam": "Avoort",
+        "vnaam": "Jan",
+        "tvoeg": "van der",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.218
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "vmax"
+        ]
+    },
+    {
+        "id": "HW",
+        "knbbId": "388038",
+        "anaam": "Wijnhoven",
+        "vnaam": "Hans",
+        "tvoeg": "",
+        "spreeknaam": "Hans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.469
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "IV",
+        "knbbId": "247899",
+        "anaam": "Vos",
+        "vnaam": "Ivo",
+        "tvoeg": "",
+        "spreeknaam": "Ivo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.423
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "JS",
+        "knbbId": "175559",
+        "anaam": "Sleddens",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.382
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "GR",
+        "knbbId": "278926",
+        "anaam": "Rijkers",
+        "vnaam": "Gerard",
+        "tvoeg": "",
+        "spreeknaam": "Gerard",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.365
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "GvK",
+        "knbbId": "167486",
+        "anaam": "Kemenade",
+        "vnaam": "Gerard",
+        "tvoeg": "van",
+        "spreeknaam": "Gerard",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.36
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "BvA",
+        "knbbId": "278927",
+        "anaam": "Ampting",
+        "vnaam": "Bernard",
+        "tvoeg": "van",
+        "spreeknaam": "Bernard",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.353
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "BvdV",
+        "knbbId": "278928",
+        "anaam": "Ven",
+        "vnaam": "Ben",
+        "tvoeg": "van de",
+        "spreeknaam": "Ben",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.34
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "has"
+        ]
+    },
+    {
+        "id": "JD",
+        "knbbId": "385863",
+        "anaam": "Donkers",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.618
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "snv"
+        ]
+    },
+    {
+        "id": "GdB",
+        "knbbId": "385428",
+        "anaam": "Beer",
+        "vnaam": "Gerard",
+        "tvoeg": "de",
+        "spreeknaam": "Gerard",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.378
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "snv"
+        ]
+    },
+    {
+        "id": "HB",
+        "knbbId": "385542",
+        "anaam": "Bakker",
+        "vnaam": "Hans",
+        "tvoeg": "",
+        "spreeknaam": "Hans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.34
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "snv"
+        ]
+    },
+    {
+        "id": "JvH",
+        "knbbId": "385413",
+        "anaam": "Herwijnen",
+        "vnaam": "Jo",
+        "tvoeg": "van",
+        "spreeknaam": "Jo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.276
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "snv"
+        ]
+    },
+    {
+        "id": "RV",
+        "knbbId": "155220",
+        "anaam": "Vermeer",
+        "vnaam": "Robert",
+        "tvoeg": "",
+        "spreeknaam": "Robert",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.731
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "JvT",
+        "knbbId": "127934",
+        "anaam": "Tilborg",
+        "vnaam": "Jos",
+        "tvoeg": "van",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.448
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "PC2",
+        "knbbId": "388519",
+        "anaam": "Coomans",
+        "vnaam": "Piet",
+        "tvoeg": "",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.4
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "HV",
+        "knbbId": "246457",
+        "anaam": "Versteijnen",
+        "vnaam": "Huub",
+        "tvoeg": "",
+        "spreeknaam": "Huub",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.373
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "GS",
+        "knbbId": "387692",
+        "anaam": "Sutton",
+        "vnaam": "George",
+        "tvoeg": "",
+        "spreeknaam": "George",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.276
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "JvdH",
+        "knbbId": "277199",
+        "anaam": "Hoeven",
+        "vnaam": "John",
+        "tvoeg": "van der",
+        "spreeknaam": "John",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.275
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "JD2",
+        "knbbId": "384341",
+        "anaam": "Dijkers",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.195
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "MH",
+        "knbbId": "385411",
+        "anaam": "Huibers",
+        "vnaam": "Mies",
+        "tvoeg": "",
+        "spreeknaam": "Mies",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.189
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mlb"
+        ]
+    },
+    {
+        "id": "DS",
+        "knbbId": "275421",
+        "anaam": "Schoordijk",
+        "vnaam": "Davy",
+        "tvoeg": "",
+        "spreeknaam": "Davy",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.71
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "MvdB",
+        "knbbId": "225968",
+        "anaam": "Bosch",
+        "vnaam": "Mark",
+        "tvoeg": "van den",
+        "spreeknaam": "Mark",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.68
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "HL",
+        "knbbId": "221632",
+        "anaam": "Liplijn",
+        "vnaam": "Henk",
+        "tvoeg": "",
+        "spreeknaam": "Henk",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.6
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "MB3",
+        "knbbId": "277535",
+        "anaam": "Biesmans",
+        "vnaam": "Martien",
+        "tvoeg": "",
+        "spreeknaam": "Martien",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.56
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "AC",
+        "knbbId": "270553",
+        "anaam": "Cardinaal",
+        "vnaam": "Andre",
+        "tvoeg": "",
+        "spreeknaam": "Andre",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.526
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "TvZ2",
+        "knbbId": "221633",
+        "anaam": "Zandvoort",
+        "vnaam": "Tinus",
+        "tvoeg": "van",
+        "spreeknaam": "Tinus",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.5
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "JK",
+        "knbbId": "221629",
+        "anaam": "Kooken",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.407
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "JvH2",
+        "knbbId": "221631",
+        "anaam": "Horne",
+        "vnaam": "Jos",
+        "tvoeg": "van",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.342
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "EB",
+        "knbbId": "384313",
+        "anaam": "Bax",
+        "vnaam": "Eric",
+        "tvoeg": "",
+        "spreeknaam": "Eric",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.277
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "JB",
+        "knbbId": "277506",
+        "anaam": "Beckers",
+        "vnaam": "Jack",
+        "tvoeg": "",
+        "spreeknaam": "Jack",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.253
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "FB",
+        "knbbId": "225811",
+        "anaam": "Bots",
+        "vnaam": "Frans",
+        "tvoeg": "",
+        "spreeknaam": "Frans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.254
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "horn"
+        ]
+    },
+    {
+        "id": "EK2",
+        "knbbId": "205603",
+        "anaam": "Kennis",
+        "vnaam": "Eduard",
+        "tvoeg": "",
+        "spreeknaam": "Eduard",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.592
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "RW",
+        "knbbId": "172492",
+        "anaam": "Wong",
+        "vnaam": "Rob",
+        "tvoeg": "",
+        "spreeknaam": "Rob",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.538
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "PvM",
+        "knbbId": "383549",
+        "anaam": "Mol",
+        "vnaam": "Piet",
+        "tvoeg": "van",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.52
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "LN",
+        "knbbId": "224729",
+        "anaam": "Nijs",
+        "vnaam": "Luc",
+        "tvoeg": "",
+        "spreeknaam": "Luc",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.511
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "TVB",
+        "knbbId": "217364",
+        "anaam": "Boxem",
+        "vnaam": "Toon",
+        "tvoeg": "Van",
+        "spreeknaam": "Toon",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.484
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "CM",
+        "knbbId": "261456",
+        "anaam": "Meijer",
+        "vnaam": "Cees",
+        "tvoeg": "",
+        "spreeknaam": "Cees",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "BK",
+        "knbbId": "388091",
+        "anaam": "Klokgieter",
+        "vnaam": "Bernard",
+        "tvoeg": "",
+        "spreeknaam": "Bernard",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.339
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "EJ",
+        "knbbId": "387549",
+        "anaam": "Jansen",
+        "vnaam": "Erwin",
+        "tvoeg": "",
+        "spreeknaam": "Erwin",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "PvM2",
+        "knbbId": "386495",
+        "anaam": "Mol",
+        "vnaam": "Peter",
+        "tvoeg": "van",
+        "spreeknaam": "Peter",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "BG",
+        "knbbId": "271507",
+        "anaam": "Grijseels",
+        "vnaam": "Bart",
+        "tvoeg": "",
+        "spreeknaam": "Bart",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.329
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "HvH",
+        "knbbId": "248030",
+        "anaam": "Hest",
+        "vnaam": "Hans",
+        "tvoeg": "van",
+        "spreeknaam": "Hans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.274
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "cav"
+        ]
+    },
+    {
+        "id": "RB3",
+        "knbbId": "171560",
+        "anaam": "Bronk",
+        "vnaam": "René",
+        "tvoeg": "",
+        "spreeknaam": "René",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.53
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "JL2",
+        "knbbId": "383722",
+        "anaam": "Laurijsen",
+        "vnaam": "Joost",
+        "tvoeg": "",
+        "spreeknaam": "Joost",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.44
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "TvT",
+        "knbbId": "156621",
+        "anaam": "Tilburg",
+        "vnaam": "Theo",
+        "tvoeg": "van",
+        "spreeknaam": "Theo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.417
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "JvT2",
+        "knbbId": "388496",
+        "anaam": "Tilburg",
+        "vnaam": "Jan",
+        "tvoeg": "van",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.402
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "MvL",
+        "knbbId": "385578",
+        "anaam": "Limpt",
+        "vnaam": "Marco",
+        "tvoeg": "van",
+        "spreeknaam": "Marco",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "FJ2",
+        "knbbId": "215022",
+        "anaam": "Jansen",
+        "vnaam": "Frans",
+        "tvoeg": "",
+        "spreeknaam": "Frans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.259
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "JG",
+        "knbbId": "170898",
+        "anaam": "Groenen",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.255
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "en"
+        ]
+    },
+    {
+        "id": "RvH2",
+        "knbbId": "168702",
+        "anaam": "Herpt",
+        "vnaam": "Rens",
+        "tvoeg": "van",
+        "spreeknaam": "Rens",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.427
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "gr"
+        ]
+    },
+    {
+        "id": "RvB3",
+        "knbbId": "168687",
+        "anaam": "Bommel",
+        "vnaam": "Rinus",
+        "tvoeg": "van",
+        "spreeknaam": "Rinus",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.351
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "gr"
+        ]
+    },
+    {
+        "id": "CvG",
+        "knbbId": "383988",
+        "anaam": "Gestel",
+        "vnaam": "Cees",
+        "tvoeg": "van",
+        "spreeknaam": "Cees",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.258
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "gr"
+        ]
+    },
+    {
+        "id": "JD3",
+        "knbbId": "246650",
+        "anaam": "Dirkx",
+        "vnaam": "Jan",
+        "tvoeg": "",
+        "spreeknaam": "Jan",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.2
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "gr"
+        ]
+    },
+    {
+        "id": "GvG",
+        "knbbId": "201477",
+        "anaam": "Grinsven",
+        "vnaam": "Guus",
+        "tvoeg": "van",
+        "spreeknaam": "Guus",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.876
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "FK",
+        "knbbId": "387339",
+        "anaam": "Kaptheijns",
+        "vnaam": "Frank",
+        "tvoeg": "",
+        "spreeknaam": "Frank",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.591
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "JS2",
+        "knbbId": "212108",
+        "anaam": "Stokkermans",
+        "vnaam": "Jos",
+        "tvoeg": "",
+        "spreeknaam": "Jos",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.579
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "SvG",
+        "knbbId": "215018",
+        "anaam": "Gisbergen",
+        "vnaam": "Sjef",
+        "tvoeg": "van",
+        "spreeknaam": "Sjef",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.507
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "SK",
+        "knbbId": "386492",
+        "anaam": "Keustermans",
+        "vnaam": "Sjef",
+        "tvoeg": "",
+        "spreeknaam": "Sjef",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.47
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "RJ",
+        "knbbId": "225853",
+        "anaam": "Jansen",
+        "vnaam": "Ralph",
+        "tvoeg": "",
+        "spreeknaam": "Ralph",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.455
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "AL",
+        "knbbId": "201447",
+        "anaam": "Lepelaars",
+        "vnaam": "Ad",
+        "tvoeg": "",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.4
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "WvD2",
+        "knbbId": "212107",
+        "anaam": "Dommelen",
+        "vnaam": "Wil",
+        "tvoeg": "van",
+        "spreeknaam": "Wil",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.386
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "PT",
+        "knbbId": "225854",
+        "anaam": "Timmers",
+        "vnaam": "Peter",
+        "tvoeg": "",
+        "spreeknaam": "Peter",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.109
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "hoek"
+        ]
+    },
+    {
+        "id": "EG",
+        "knbbId": "205313",
+        "anaam": "Gerearts",
+        "vnaam": "Eric",
+        "tvoeg": "",
+        "spreeknaam": "Eric",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.879
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "FvdK",
+        "knbbId": "215006",
+        "anaam": "Kerkhof",
+        "vnaam": "Fred",
+        "tvoeg": "van de",
+        "spreeknaam": "Fred",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.76
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "MH2",
+        "knbbId": "215729",
+        "anaam": "Heygelen",
+        "vnaam": "Milenco",
+        "tvoeg": "",
+        "spreeknaam": "Milenco",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.542
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "AvT",
+        "knbbId": "385851",
+        "anaam": "Tiggelen",
+        "vnaam": "Arno",
+        "tvoeg": "van",
+        "spreeknaam": "Arno",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.525
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "BK2",
+        "knbbId": "152029",
+        "anaam": "Kamberg",
+        "vnaam": "Bertus",
+        "tvoeg": "",
+        "spreeknaam": "Bertus",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.48
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "WvdK",
+        "knbbId": "215008",
+        "anaam": "Kerkhof",
+        "vnaam": "Wil",
+        "tvoeg": "van de",
+        "spreeknaam": "Wil",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.42
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "PC3",
+        "knbbId": "217506",
+        "anaam": "Castelijns",
+        "vnaam": "Piet",
+        "tvoeg": "",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.36
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "FvD2",
+        "knbbId": "180732",
+        "anaam": "Dijl",
+        "vnaam": "Frans",
+        "tvoeg": "van",
+        "spreeknaam": "Frans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.257
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "mert"
+        ]
+    },
+    {
+        "id": "PvL",
+        "knbbId": "158225",
+        "anaam": "Loon",
+        "vnaam": "Peter",
+        "tvoeg": "van",
+        "spreeknaam": "Peter",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.663
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "TP",
+        "knbbId": "230088",
+        "anaam": "Peeters",
+        "vnaam": "Tim",
+        "tvoeg": "",
+        "spreeknaam": "Tim",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.65
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "FdL",
+        "knbbId": "145107",
+        "anaam": "Laat",
+        "vnaam": "Frank",
+        "tvoeg": "de",
+        "spreeknaam": "Frank",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.644
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "RH",
+        "knbbId": "205361",
+        "anaam": "Houthuijzen",
+        "vnaam": "Riko",
+        "tvoeg": "",
+        "spreeknaam": "Riko",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.616
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "MvG",
+        "knbbId": "152019",
+        "anaam": "Gompel",
+        "vnaam": "Maarten",
+        "tvoeg": "van",
+        "spreeknaam": "Maarten",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.448
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "FP",
+        "knbbId": "223791",
+        "anaam": "Paridaans",
+        "vnaam": "Frans",
+        "tvoeg": "",
+        "spreeknaam": "Frans",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.42
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "AG",
+        "knbbId": "168407",
+        "anaam": "Gevers",
+        "vnaam": "Ad",
+        "tvoeg": "",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.363
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "SL",
+        "knbbId": "276874",
+        "anaam": "Lavrijsen",
+        "vnaam": "Simon",
+        "tvoeg": "",
+        "spreeknaam": "Simon",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.35
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "kost"
+        ]
+    },
+    {
+        "id": "TvH",
+        "knbbId": "160328",
+        "anaam": "Ham",
+        "vnaam": "Toon",
+        "tvoeg": "van",
+        "spreeknaam": "Toon",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.38
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "beer"
+        ]
+    },
+    {
+        "id": "FV2",
+        "knbbId": "125355",
+        "anaam": "Vugts",
+        "vnaam": "Frank",
+        "tvoeg": "",
+        "spreeknaam": "Frank",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.319
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "beer"
+        ]
+    },
+    {
+        "id": "AvG2",
+        "knbbId": "152911",
+        "anaam": "Gils",
+        "vnaam": "Ad",
+        "tvoeg": "van",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.29
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "beer"
+        ]
+    },
+    {
+        "id": "MT",
+        "knbbId": "159348",
+        "anaam": "Timmermans-sebregts",
+        "vnaam": "Maria",
+        "tvoeg": "",
+        "spreeknaam": "Maria",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.267
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "beer"
+        ]
+    },
+    {
+        "id": "PQ",
+        "knbbId": "116016",
+        "anaam": "Quirijnen",
+        "vnaam": "Piet",
+        "tvoeg": "",
+        "spreeknaam": "Piet",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.24
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "beer"
+        ]
+    },
+    {
+        "id": "FvH",
+        "knbbId": "134485",
+        "anaam": "Heijst",
+        "vnaam": "Frank",
+        "tvoeg": "van",
+        "spreeknaam": "Frank",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.235
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "beer"
+        ]
+    },
+    {
+        "id": "MH3",
+        "knbbId": "171899",
+        "anaam": "Heesterbeek",
+        "vnaam": "Mark",
+        "tvoeg": "",
+        "spreeknaam": "Mark",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.443
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "NK",
+        "knbbId": "183092",
+        "anaam": "Kwinten",
+        "vnaam": "Nico",
+        "tvoeg": "",
+        "spreeknaam": "Nico",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.423
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "WJ",
+        "knbbId": "384005",
+        "anaam": "Janssens",
+        "vnaam": "Wil",
+        "tvoeg": "",
+        "spreeknaam": "Wil",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.34
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "LL",
+        "knbbId": "386049",
+        "anaam": "Linssen",
+        "vnaam": "Louis",
+        "tvoeg": "",
+        "spreeknaam": "Louis",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.324
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "MA",
+        "knbbId": "275523",
+        "anaam": "Aarts",
+        "vnaam": "Michel",
+        "tvoeg": "",
+        "spreeknaam": "Michel",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.32
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "AvB",
+        "knbbId": "183282",
+        "anaam": "Beek",
+        "vnaam": "Ad",
+        "tvoeg": "van",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.32
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "CS3",
+        "knbbId": "264013",
+        "anaam": "Smolders",
+        "vnaam": "Carlo",
+        "tvoeg": "",
+        "spreeknaam": "Carlo",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.318
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "AvD2",
+        "knbbId": "183281",
+        "anaam": "Doorn",
+        "vnaam": "Ad",
+        "tvoeg": "van",
+        "spreeknaam": "Ad",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.315
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    },
+    {
+        "id": "JvB",
+        "knbbId": "226013",
+        "anaam": "Beek",
+        "vnaam": "Jacques",
+        "tvoeg": "van",
+        "spreeknaam": "Jacques",
+        "gemiddeldes": [
+            {
+                "spelId": "3BA",
+                "gemiddelde": 0.291
+            }
+        ],
+        "knbbMoy": "",
+        "verenigingIds": [
+            "krijt"
+        ]
+    }
+]

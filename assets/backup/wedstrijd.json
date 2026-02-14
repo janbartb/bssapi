@@ -1,0 +1,60 @@
+{
+    "aantSpelers": 2,
+    "isVastAantBrt": false,
+    "isVastAantCar": false,
+    "maxBeurten": 3,
+    "tsBeurten": 11,
+    "tsCaramboles": 0,
+    "wedOver": false,
+    "idxSpeler": -1,
+    "idxTeam": -1,
+    "spelers": [
+        {
+            "splIdx": 0,
+            "teamIdx": -1,
+            "splId": "JBB",
+            "splNaam": "Jan Bart Biemans",
+            "splBordNaam": "Jan Bart",
+            "splSpreekNaam": "Jan Bart",
+            "metWit": true,
+            "active": true,
+            "splTsGem": 0.645,
+            "splTsCar": 7,
+            "splTsBrt": 0,
+            "stand": {
+                "hoogSer": 0,
+                "aantCar": 0,
+                "aantBrt": 0,
+                "gemiddelde": 0,
+                "serie": 0,
+                "punten": 0,
+                "score": [],
+                "laatste5brt": []
+            }
+        },
+        {
+            "splIdx": 1,
+            "teamIdx": -1,
+            "splId": "ES",
+            "splNaam": "Eric Sanders",
+            "splBordNaam": "Eric",
+            "splSpreekNaam": "Eric",
+            "metWit": false,
+            "active": false,
+            "splTsGem": 0.56,
+            "splTsCar": 6,
+            "splTsBrt": 0,
+            "stand": {
+                "hoogSer": 0,
+                "aantCar": 0,
+                "aantBrt": 0,
+                "gemiddelde": 0,
+                "serie": 0,
+                "punten": 0,
+                "score": [],
+                "laatste5brt": []
+            }
+        }
+    ],
+    "teams": []
+}

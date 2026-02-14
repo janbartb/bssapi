@@ -1,0 +1,233 @@
+{
+    "compId": "B1-1-1",
+    "klasse": "B1",
+    "maxBeurten": 60,
+    "matchOver": false,
+    "idxTeamActief": 0,
+    "idxWedActief": 0,
+    "gameOver": [
+        false,
+        true,
+        false
+    ],
+    "teams": [
+        {
+            "isManual": false,
+            "verId": "bvd",
+            "verNaam": "",
+            "teamId": "3BA-B1-1",
+            "teamNaam": "B.V.D. 1",
+            "klasse": "B1",
+            "spelers": [
+                {
+                    "splId": "JBB",
+                    "splNaam": "Jan Bart Biemans",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Jan Bart",
+                    "splSpreekNaam": "Jan Bart",
+                    "isActief": true,
+                    "metWit": true,
+                    "splTsGem": 0.596,
+                    "splTsCar": 29,
+                    "stand": {
+                        "hoogSer": 9,
+                        "aantCar": 24,
+                        "aantBrt": 8,
+                        "gemiddelde": 3,
+                        "serie": 0,
+                        "punten": 9,
+                        "score": [
+                            0,
+                            0,
+                            0,
+                            9,
+                            4,
+                            0,
+                            6,
+                            5
+                        ],
+                        "laatste5brt": [
+                            9,
+                            4,
+                            0,
+                            6,
+                            5
+                        ],
+                        "voortgang": 82,
+                        "enNog": -1,
+                        "moyView": "3,000",
+                        "percView": "503,36",
+                        "serView": "0"
+                    }
+                },
+                {
+                    "splId": "ES",
+                    "splNaam": "Eric Sanders",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Eric",
+                    "splSpreekNaam": "Eric",
+                    "isActief": false,
+                    "metWit": true,
+                    "splTsGem": 0.604,
+                    "splTsCar": 31,
+                    "stand": {
+                        "hoogSer": 31,
+                        "aantCar": 31,
+                        "aantBrt": 3,
+                        "gemiddelde": 10.333333333333334,
+                        "serie": 0,
+                        "punten": 11,
+                        "score": [
+                            0,
+                            0,
+                            31
+                        ],
+                        "laatste5brt": [
+                            0,
+                            0,
+                            31
+                        ],
+                        "voortgang": 100,
+                        "enNog": -1,
+                        "moyView": "10,333",
+                        "percView": "1.710,82",
+                        "serView": "31"
+                    }
+                },
+                {
+                    "splId": "FvN",
+                    "splNaam": "Frans van Nunen",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Frans",
+                    "splSpreekNaam": "Frans",
+                    "isActief": false,
+                    "metWit": true,
+                    "splTsGem": 0.688,
+                    "splTsCar": 35,
+                    "stand": {
+                        "hoogSer": 0,
+                        "aantCar": 0,
+                        "aantBrt": 0,
+                        "gemiddelde": 0,
+                        "serie": 0,
+                        "punten": 0,
+                        "score": [],
+                        "laatste5brt": []
+                    }
+                }
+            ]
+        },
+        {
+            "isManual": false,
+            "verId": "vh",
+            "verNaam": "",
+            "teamId": "3BA-B1-1",
+            "teamNaam": "Vrijthof 85",
+            "klasse": "B1",
+            "spelers": [
+                {
+                    "splId": "JC",
+                    "splNaam": "Jan Coppelmans",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Jan",
+                    "splSpreekNaam": "Jan",
+                    "isActief": false,
+                    "metWit": false,
+                    "splTsGem": 0.72,
+                    "splTsCar": 37,
+                    "stand": {
+                        "hoogSer": 9,
+                        "aantCar": 17,
+                        "aantBrt": 8,
+                        "gemiddelde": 2.125,
+                        "serie": 0,
+                        "punten": 5,
+                        "score": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            9,
+                            8,
+                            0
+                        ],
+                        "laatste5brt": [
+                            0,
+                            0,
+                            9,
+                            8,
+                            0
+                        ],
+                        "voortgang": 45,
+                        "enNog": -1,
+                        "moyView": "2,125",
+                        "percView": "295,14",
+                        "serView": "0"
+                    }
+                },
+                {
+                    "splId": "MM",
+                    "splNaam": "Mark Mertens",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Mark",
+                    "splSpreekNaam": "Mark",
+                    "isActief": false,
+                    "metWit": false,
+                    "splTsGem": 0.735,
+                    "splTsCar": 37,
+                    "stand": {
+                        "hoogSer": 14,
+                        "aantCar": 14,
+                        "aantBrt": 3,
+                        "gemiddelde": 4.666666666666667,
+                        "serie": 0,
+                        "punten": 4,
+                        "score": [
+                            0,
+                            0,
+                            14
+                        ],
+                        "laatste5brt": [
+                            0,
+                            0,
+                            14
+                        ],
+                        "voortgang": 37,
+                        "enNog": -1,
+                        "moyView": "4,667",
+                        "percView": "634,92",
+                        "serView": "14"
+                    }
+                },
+                {
+                    "splId": "RvH",
+                    "splNaam": "Rene van Hak",
+                    "verId": "",
+                    "teamId": "",
+                    "splBordNaam": "Rene",
+                    "splSpreekNaam": "Renee",
+                    "isActief": false,
+                    "metWit": false,
+                    "splTsGem": 0.767,
+                    "splTsCar": 39,
+                    "stand": {
+                        "hoogSer": 0,
+                        "aantCar": 0,
+                        "aantBrt": 0,
+                        "gemiddelde": 0,
+                        "serie": 0,
+                        "punten": 0,
+                        "score": [],
+                        "laatste5brt": []
+                    }
+                }
+            ]
+        }
+    ]
+}

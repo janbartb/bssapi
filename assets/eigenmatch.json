@@ -1,0 +1,65 @@
+{
+    "cmpNaam": "test-3BA-2025-1",
+    "cmpRonde": 1,
+    "datum": "",
+    "matchOver": false,
+    "opgeslagen": false,
+    "regels": {
+        "idxOptie": 0,
+        "vastAantBrt": 0,
+        "vastAantCar": 0,
+        "maxBeurten": 60,
+        "moyAantBrt": 0,
+        "knbbKlasse": "B2"
+    },
+    "telling": {
+        "idxOptie": 0,
+        "winstPunten": 0,
+        "gelijkPunten": 0,
+        "bovenMoyPunten": 1
+    },
+    "spelers": [
+        {
+            "id": "FvN",
+            "naam": "Frans van Nunen",
+            "bordNaam": "Frans",
+            "spreekNaam": "Frans",
+            "metWit": true,
+            "active": false,
+            "tsMoy": 0.711,
+            "tsCar": 35,
+            "tsBrt": 0,
+            "stand": {
+                "hoogSer": 0,
+                "aantCar": 0,
+                "aantBrt": 0,
+                "gemiddelde": 0,
+                "serie": 0,
+                "punten": 0,
+                "score": [],
+                "laatste5brt": []
+            }
+        },
+        {
+            "id": "CS",
+            "naam": "Cordy Sanders",
+            "bordNaam": "Cordy",
+            "spreekNaam": "Cordy",
+            "metWit": false,
+            "active": false,
+            "tsMoy": 0.437,
+            "tsCar": 22,
+            "tsBrt": 0,
+            "stand": {
+                "hoogSer": 0,
+                "aantCar": 0,
+                "aantBrt": 0,
+                "gemiddelde": 0,
+                "serie": 0,
+                "punten": 0,
+                "score": [],
+                "laatste5brt": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,477 @@
+{
+    "spelsoort": "3BA",
+    "vereniging": "bvd",
+    "seizoen": "2025-2026",
+    "district": {
+        "disId": "kemp",
+        "knbbId": "86",
+        "disNaam": "Kempenland"
+    },
+    "id": 1739205975502.1782,
+    "klasse": "B1",
+    "speech": true,
+    "stem": "Google Nederlands",
+    "notify": false,
+    "version": "1.0.0",
+    "apparaten": [
+        {
+            "id": "keyboard",
+            "naam": "Toetsenbord",
+            "image": "keyboard.jpg",
+            "spelen": [
+                {
+                    "id": "3BA",
+                    "naam": "Driebanden",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": false,
+                            "code": "Enter",
+                            "key": "Enter"
+                        },
+                        {
+                            "id": "seriePlus",
+                            "omschr": "Bal gemaakt - serie ophogen met 1",
+                            "editable": true,
+                            "code": "Space",
+                            "key": " "
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "Period",
+                            "key": "."
+                        },
+                        {
+                            "id": "serieMin",
+                            "omschr": "Correctie serie - serie verlagen met 1",
+                            "editable": true,
+                            "code": "Minus",
+                            "key": "-"
+                        }
+                    ]
+                },
+                {
+                    "id": "PEN",
+                    "naam": "Pentathlon",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": false,
+                            "code": "Enter",
+                            "key": "Enter"
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "Period",
+                            "key": "."
+                        },
+                        {
+                            "id": "dirPlus",
+                            "omschr": "Direct gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit1",
+                            "key": "1"
+                        },
+                        {
+                            "id": "eenPlus",
+                            "omschr": "1 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit2",
+                            "key": "2"
+                        },
+                        {
+                            "id": "tweePlus",
+                            "omschr": "2 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit3",
+                            "key": "3"
+                        },
+                        {
+                            "id": "driePlus",
+                            "omschr": "3 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit4",
+                            "key": "4"
+                        },
+                        {
+                            "id": "losPlus",
+                            "omschr": "Los band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit5",
+                            "key": "5"
+                        },
+                        {
+                            "id": "dirMin",
+                            "omschr": "Correctie direct (-1)",
+                            "editable": true,
+                            "code": "Digit6",
+                            "key": "6"
+                        },
+                        {
+                            "id": "eenMin",
+                            "omschr": "Correctie 1 band (-1)",
+                            "editable": true,
+                            "code": "Digit7",
+                            "key": "7"
+                        },
+                        {
+                            "id": "tweeMin",
+                            "omschr": "Correctie 2 band (-1)",
+                            "editable": true,
+                            "code": "Digit8",
+                            "key": "8"
+                        },
+                        {
+                            "id": "drieMin",
+                            "omschr": "Correctie 3 band (-1)",
+                            "editable": true,
+                            "code": "Digit9",
+                            "key": "9"
+                        },
+                        {
+                            "id": "losMin",
+                            "omschr": "Correctie los band (-1)",
+                            "editable": true,
+                            "code": "Digit0",
+                            "key": "0"
+                        }
+                    ]
+                },
+                {
+                    "id": "ANN",
+                    "naam": "Annonceren",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": false,
+                            "code": "Enter",
+                            "key": "Enter"
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "Period",
+                            "key": "."
+                        },
+                        {
+                            "id": "roodPlus",
+                            "omschr": "Over rood gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit2",
+                            "key": "2"
+                        },
+                        {
+                            "id": "dirPlus",
+                            "omschr": "Direct gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit3",
+                            "key": "3"
+                        },
+                        {
+                            "id": "losPlus",
+                            "omschr": "Los band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit4",
+                            "key": "4"
+                        },
+                        {
+                            "id": "driePlus",
+                            "omschr": "3 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Digit5",
+                            "key": "5"
+                        },
+                        {
+                            "id": "roodMin",
+                            "omschr": "Correctie over rood (-1)",
+                            "editable": true,
+                            "code": "Digit7",
+                            "key": "7"
+                        },
+                        {
+                            "id": "dirMin",
+                            "omschr": "Correctie direct (-1)",
+                            "editable": true,
+                            "code": "Digit8",
+                            "key": "8"
+                        },
+                        {
+                            "id": "losMin",
+                            "omschr": "Correctie los band (-1)",
+                            "editable": true,
+                            "code": "Digit9",
+                            "key": "9"
+                        },
+                        {
+                            "id": "drieMin",
+                            "omschr": "Correctie 3 band (-1)",
+                            "editable": true,
+                            "code": "Digit0",
+                            "key": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "numkeyboard",
+            "naam": "Numeriek toetsenbord",
+            "image": "ms-num-pad.png",
+            "spelen": [
+                {
+                    "id": "3BA",
+                    "naam": "Driebanden",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": false,
+                            "code": "NumpadEnter",
+                            "key": "Enter"
+                        },
+                        {
+                            "id": "seriePlus",
+                            "omschr": "Bal gemaakt - serie ophogen met 1",
+                            "editable": true,
+                            "code": "NumpadAdd",
+                            "key": "+"
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "NumpadDecimal",
+                            "key": "."
+                        },
+                        {
+                            "id": "serieMin",
+                            "omschr": "Correctie serie - serie verlagen met 1",
+                            "editable": true,
+                            "code": "NumpadSubtract",
+                            "key": "-"
+                        }
+                    ]
+                },
+                {
+                    "id": "PEN",
+                    "naam": "Pentathlon",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": false,
+                            "code": "NumpadEnter",
+                            "key": "Enter"
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "NumpadSubtract",
+                            "key": "-"
+                        },
+                        {
+                            "id": "dirPlus",
+                            "omschr": "Direct gemaakt (+1)",
+                            "editable": true,
+                            "code": "Backspace",
+                            "key": "Backspace"
+                        },
+                        {
+                            "id": "eenPlus",
+                            "omschr": "1 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad7",
+                            "key": "7"
+                        },
+                        {
+                            "id": "tweePlus",
+                            "omschr": "2 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad4",
+                            "key": "4"
+                        },
+                        {
+                            "id": "driePlus",
+                            "omschr": "3 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad1",
+                            "key": "1"
+                        },
+                        {
+                            "id": "losPlus",
+                            "omschr": "Los band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad0",
+                            "key": "0"
+                        },
+                        {
+                            "id": "dirMin",
+                            "omschr": "Correctie direct (-1)",
+                            "editable": true,
+                            "code": "NumpadMultiply",
+                            "key": "*"
+                        },
+                        {
+                            "id": "eenMin",
+                            "omschr": "Correctie 1 band (-1)",
+                            "editable": true,
+                            "code": "Numpad9",
+                            "key": "9"
+                        },
+                        {
+                            "id": "tweeMin",
+                            "omschr": "Correctie 2 band (-1)",
+                            "editable": true,
+                            "code": "Numpad6",
+                            "key": "6"
+                        },
+                        {
+                            "id": "drieMin",
+                            "omschr": "Correctie 3 band (-1)",
+                            "editable": true,
+                            "code": "Numpad3",
+                            "key": "3"
+                        },
+                        {
+                            "id": "losMin",
+                            "omschr": "Correctie los band (-1)",
+                            "editable": true,
+                            "code": "NumpadDecimal",
+                            "key": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "ANN",
+                    "naam": "Annonceren",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": false,
+                            "code": "NumpadEnter",
+                            "key": "Enter"
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "NumpadSubtract",
+                            "key": "-"
+                        },
+                        {
+                            "id": "roodPlus",
+                            "omschr": "Over rood gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad7",
+                            "key": "7"
+                        },
+                        {
+                            "id": "dirPlus",
+                            "omschr": "Direct gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad4",
+                            "key": "4"
+                        },
+                        {
+                            "id": "losPlus",
+                            "omschr": "Los band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad1",
+                            "key": "1"
+                        },
+                        {
+                            "id": "driePlus",
+                            "omschr": "3 band gemaakt (+1)",
+                            "editable": true,
+                            "code": "Numpad0",
+                            "key": "0"
+                        },
+                        {
+                            "id": "roodMin",
+                            "omschr": "Correctie over rood (-1)",
+                            "editable": true,
+                            "code": "Numpad9",
+                            "key": "9"
+                        },
+                        {
+                            "id": "dirMin",
+                            "omschr": "Correctie direct (-1)",
+                            "editable": true,
+                            "code": "Numpad6",
+                            "key": "6"
+                        },
+                        {
+                            "id": "losMin",
+                            "omschr": "Correctie los band (-1)",
+                            "editable": true,
+                            "code": "Numpad3",
+                            "key": "3"
+                        },
+                        {
+                            "id": "drieMin",
+                            "omschr": "Correctie 3 band (-1)",
+                            "editable": true,
+                            "code": "NumpadDecimal",
+                            "key": "."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "presenter",
+            "naam": "Presentatie apparaat",
+            "image": "logi-presenter.png",
+            "spelen": [
+                {
+                    "id": "3BA",
+                    "naam": "Driebanden",
+                    "acties": [
+                        {
+                            "id": "beurtPlus",
+                            "omschr": "Bal gemist - naar volgende speler",
+                            "editable": true,
+                            "code": "PageDown",
+                            "key": "PageDown"
+                        },
+                        {
+                            "id": "seriePlus",
+                            "omschr": "Bal gemaakt - serie ophogen met 1",
+                            "editable": true,
+                            "code": "PageUp",
+                            "key": "PageUp"
+                        },
+                        {
+                            "id": "beurtMin",
+                            "omschr": "Correctie beurt - naar vorige speler",
+                            "editable": true,
+                            "code": "Period",
+                            "key": "."
+                        },
+                        {
+                            "id": "serieMin",
+                            "omschr": "Correctie serie - serie verlagen met 1",
+                            "editable": true,
+                            "code": "F5",
+                            "key": "F5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "repeatRemaining": false,
+    "sayGenoteerd": true,
+    "carMeteenToev": true,
+    "alsoForZero": false
+}

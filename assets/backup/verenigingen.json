@@ -1,0 +1,843 @@
+[
+    {
+        "verId": "bvd",
+        "naam": "B.V.D.",
+        "korteNaam": "BvD",
+        "locatie": "bvd",
+        "teams": [
+            {
+                "verId": "bvd",
+                "teamId": "3BA-B1-1",
+                "knbbId": "79870",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "B.V.D. 1",
+                "teamLeden": [
+                    "FvN",
+                    "JBB",
+                    "ES",
+                    "EvD",
+                    "BJ",
+                    "CS",
+                    "FvD",
+                    "AvG",
+                    "AB"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "bvd",
+                "teamId": "3BA-B2-1",
+                "knbbId": "79869",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "B.V.D. 2",
+                "teamLeden": [
+                    "FvN",
+                    "JBB",
+                    "ES",
+                    "EvD",
+                    "BJ",
+                    "CS",
+                    "FvD",
+                    "AvG",
+                    "AB"
+                ],
+                "inBpoint": false
+            }
+        ],
+        "voorkeur": true
+    },
+    {
+        "verId": "nas",
+        "naam": "Na Arbeid Sport",
+        "korteNaam": "NAS",
+        "locatie": "turf",
+        "teams": [
+            {
+                "verId": "nas",
+                "teamId": "3BA-B1-1",
+                "knbbId": "80010",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "N.A.S.",
+                "teamLeden": [
+                    "MR",
+                    "RB",
+                    "BS",
+                    "BvV",
+                    "PR",
+                    "FG"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "vh",
+        "naam": "`t Vrijthof",
+        "korteNaam": "Vhof",
+        "locatie": "vh",
+        "teams": [
+            {
+                "verId": "vh",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81159",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "`t Vrijthof 85-1",
+                "teamLeden": [
+                    "MvB",
+                    "JC",
+                    "RvH",
+                    "MM",
+                    "JvD",
+                    "BvG",
+                    "EV"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "karp",
+        "naam": "Karper `83",
+        "korteNaam": "Karp",
+        "locatie": "karp",
+        "teams": [
+            {
+                "verId": "karp",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81200",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "Karper `83",
+                "teamLeden": [
+                    "CS2",
+                    "RvB",
+                    "MV",
+                    "MB",
+                    "AK",
+                    "JvdS",
+                    "AvdB",
+                    "SR",
+                    "EK",
+                    "PC"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "karp",
+                "teamId": "3BA-B2-1",
+                "knbbId": "81201",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "Karper `83",
+                "teamLeden": [
+                    "CS2",
+                    "RvB",
+                    "MV",
+                    "MB",
+                    "AK",
+                    "AvdB",
+                    "SR",
+                    "EK",
+                    "EZ",
+                    "MS2"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "cav",
+        "naam": "`t Caves",
+        "korteNaam": "Caves",
+        "locatie": "cav",
+        "teams": [
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81260",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "`t Caves 1",
+                "teamLeden": [
+                    "RG",
+                    "HvZ",
+                    "HP",
+                    "HvK",
+                    "JdB",
+                    "AT"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-2",
+                "knbbId": "81257",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 2,
+                "naam": "`t Caves 2",
+                "teamLeden": [
+                    "EK2",
+                    "RW",
+                    "PvM",
+                    "LN",
+                    "TVB",
+                    "CM",
+                    "BK"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-3",
+                "knbbId": "81261",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 3,
+                "naam": "`t Caves 3",
+                "teamLeden": [
+                    "RG",
+                    "HvZ",
+                    "HP",
+                    "HvK",
+                    "JdB",
+                    "EJ"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "cav",
+                "teamId": "3BA-B2-1",
+                "knbbId": "81252",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "`t Caves B2",
+                "teamLeden": [
+                    "EK2",
+                    "PvM",
+                    "TVB",
+                    "CM",
+                    "PvM2",
+                    "BG",
+                    "HvH"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "has",
+        "naam": "H.A.S.",
+        "korteNaam": "HAS",
+        "locatie": "teut",
+        "teams": [
+            {
+                "verId": "has",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81887",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "H.A.S. 1",
+                "teamLeden": [
+                    "RB",
+                    "LH",
+                    "AH",
+                    "JW",
+                    "JH",
+                    "RB2",
+                    "JW2",
+                    "JR"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "has",
+                "teamId": "3BA-B2-1",
+                "knbbId": "81889",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "H.A.S. 3",
+                "teamLeden": [
+                    "HW",
+                    "JR",
+                    "IV",
+                    "JS",
+                    "GR",
+                    "GvK",
+                    "BvA",
+                    "BvdV"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "has",
+                "teamId": "3BA-B2-2",
+                "knbbId": "81890",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 2,
+                "naam": "H.A.S. 4",
+                "teamLeden": [
+                    "JR",
+                    "IV",
+                    "JS",
+                    "GR",
+                    "GvK",
+                    "BvA",
+                    "BvdV"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "dab",
+        "naam": "D.A.B.",
+        "korteNaam": "DAB",
+        "locatie": "pool",
+        "teams": [
+            {
+                "verId": "dab",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81296",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "D.A.B. 1",
+                "teamLeden": [
+                    "GdG",
+                    "PS",
+                    "LvdB",
+                    "WvD",
+                    "TvZ",
+                    "WG",
+                    "AvD",
+                    "TT"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "dab",
+                "teamId": "3BA-B2-1",
+                "knbbId": "81299",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "D.A.B. 2",
+                "teamLeden": [
+                    "LvdB",
+                    "TvZ",
+                    "GA",
+                    "MB2",
+                    "LvW",
+                    "LB",
+                    "MK",
+                    "JT",
+                    "CB",
+                    "HvW"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "dab",
+                "teamId": "3BA-B2-2",
+                "knbbId": "81300",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 2,
+                "naam": "D.A.B. 3",
+                "teamLeden": [
+                    "LvdB",
+                    "TvZ",
+                    "MvB2",
+                    "FV",
+                    "MB2",
+                    "RvB2",
+                    "JT",
+                    "JR2"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "mier",
+        "naam": "Mierlo",
+        "korteNaam": "Mierlo",
+        "locatie": "karp",
+        "teams": [
+            {
+                "verId": "mier",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81417",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "Mierlo",
+                "teamLeden": [
+                    "JJ",
+                    "BvdW",
+                    "HJ",
+                    "HC",
+                    "JL",
+                    "TD",
+                    "JvdN"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "sj",
+        "naam": "Sint Joris",
+        "korteNaam": "Joris",
+        "locatie": "sj",
+        "teams": [
+            {
+                "verId": "sj",
+                "teamId": "3BA-B1-1",
+                "knbbId": "81490",
+                "spelsoort": "3BA",
+                "klasse": "B1",
+                "volgNr": 1,
+                "naam": "Sint Joris 1",
+                "teamLeden": [
+                    "PvK",
+                    "RC",
+                    "JC2",
+                    "TvK",
+                    "TVD",
+                    "WT",
+                    "JWB",
+                    "JvdM"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "ekk",
+        "naam": "D`n Ekker",
+        "korteNaam": "Ekker",
+        "locatie": "ekk",
+        "teams": [
+            {
+                "verId": "ekk",
+                "teamId": "3BA-B2-1",
+                "knbbId": "79886",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "D`n Ekker",
+                "teamLeden": [
+                    "TvR",
+                    "LvB",
+                    "MS",
+                    "WD"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "vmax",
+        "naam": "V-max Motoren",
+        "korteNaam": "Vmax",
+        "locatie": "bong",
+        "teams": [
+            {
+                "verId": "vmax",
+                "teamId": "3BA-B2-1",
+                "knbbId": "81348",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "V-max Motoren",
+                "teamLeden": [
+                    "FJ",
+                    "EvdM",
+                    "HR",
+                    "RS",
+                    "AV",
+                    "JvdA"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "snv",
+        "naam": "Schilde nie veul",
+        "korteNaam": "SNV",
+        "locatie": "land",
+        "teams": [
+            {
+                "verId": "snv",
+                "teamId": "3BA-B2-1",
+                "knbbId": "82024",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "Schilde nie veul",
+                "teamLeden": [
+                    "JD",
+                    "MK",
+                    "GdB",
+                    "HB",
+                    "JvH"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "mlb",
+        "naam": "De Molenberg",
+        "korteNaam": "Molb",
+        "locatie": "mlb",
+        "teams": [
+            {
+                "verId": "mlb",
+                "teamId": "3BA-B2-1",
+                "knbbId": "82050",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "De Molenberg",
+                "teamLeden": [
+                    "RV",
+                    "JvT",
+                    "PC2",
+                    "HV",
+                    "GS",
+                    "JvdH",
+                    "JD2",
+                    "MH"
+                ],
+                "inBpoint": false
+            }
+        ],
+        "voorkeur": true
+    },
+    {
+        "verId": "horn",
+        "naam": "Van Horne Brandstoffen 1",
+        "korteNaam": "Horne",
+        "locatie": "quin",
+        "teams": [
+            {
+                "verId": "horn",
+                "teamId": "3BA-B2-1",
+                "knbbId": "82089",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "Van Horne 1",
+                "teamLeden": [
+                    "DS",
+                    "MvdB",
+                    "HL",
+                    "MB3",
+                    "AC",
+                    "TvZ2",
+                    "JK",
+                    "JvH2",
+                    "EB",
+                    "JB"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "horn",
+                "teamId": "3BA-B2-2",
+                "knbbId": "82092",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 2,
+                "naam": "Van Horne 2",
+                "teamLeden": [
+                    "DS",
+                    "MvdB",
+                    "HL",
+                    "MB3",
+                    "AC",
+                    "TvZ2",
+                    "JK",
+                    "EB",
+                    "FB",
+                    "JB"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "en",
+        "naam": "Entre Nous",
+        "korteNaam": "E.N.",
+        "locatie": "snip",
+        "teams": [
+            {
+                "verId": "en",
+                "teamId": "3BA-B2-1",
+                "knbbId": "80052",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "Entre Nous",
+                "teamLeden": [
+                    "RB3",
+                    "JL2",
+                    "TvT",
+                    "JvT2",
+                    "MvL",
+                    "FJ2",
+                    "JG"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "gr",
+        "naam": "Groene Ridders",
+        "korteNaam": "GrRid",
+        "locatie": "kei",
+        "teams": [
+            {
+                "verId": "gr",
+                "teamId": "3BA-B2-1",
+                "knbbId": "79881",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "Groene Ridders",
+                "teamLeden": [
+                    "RvH2",
+                    "RvB3",
+                    "CvG",
+                    "JD3"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "hoek",
+        "naam": "Den Hoek",
+        "korteNaam": "Hoek",
+        "locatie": "hoek",
+        "teams": [
+            {
+                "verId": "hoek",
+                "teamId": "3BA-B2-1",
+                "knbbId": "80916",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "Den Hoek 1",
+                "teamLeden": [
+                    "GvG",
+                    "FK",
+                    "JS2",
+                    "SvG",
+                    "SK",
+                    "RJ",
+                    "AL",
+                    "WvD2",
+                    "PT"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "hoek",
+                "teamId": "3BA-B2-2",
+                "knbbId": "80917",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 2,
+                "naam": "Den Hoek 2",
+                "teamLeden": [
+                    "GvG",
+                    "FK",
+                    "JS2",
+                    "SvG",
+                    "SK",
+                    "RJ",
+                    "AL",
+                    "WvD2",
+                    "PT"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "hoek",
+                "teamId": "3BA-B2-3",
+                "knbbId": "80918",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 3,
+                "naam": "Den Hoek 3",
+                "teamLeden": [
+                    "GvG",
+                    "FK",
+                    "JS2",
+                    "SvG",
+                    "SK",
+                    "RJ",
+                    "AL",
+                    "WvD2",
+                    "PT"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "mert",
+        "naam": "De Mert",
+        "korteNaam": "Mert",
+        "locatie": "mert",
+        "teams": [
+            {
+                "verId": "mert",
+                "teamId": "3BA-B2-1",
+                "knbbId": "80921",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "De Mert",
+                "teamLeden": [
+                    "EG",
+                    "FvdK",
+                    "MH2",
+                    "AvT",
+                    "BK2",
+                    "WvdK",
+                    "PC3",
+                    "FvD2"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "kost",
+        "naam": "De Koster",
+        "korteNaam": "Kost",
+        "locatie": "kost",
+        "teams": [
+            {
+                "verId": "kost",
+                "teamId": "3BA-B2-1",
+                "knbbId": "80061",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "De Koster 2",
+                "teamLeden": [
+                    "PvL",
+                    "TP",
+                    "FdL",
+                    "RH",
+                    "MvG",
+                    "FP",
+                    "AG",
+                    "SL"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "beer",
+        "naam": "De Beerze",
+        "korteNaam": "Beer",
+        "locatie": "beer",
+        "teams": [
+            {
+                "verId": "beer",
+                "teamId": "3BA-B2-1",
+                "knbbId": "81281",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "De Beerze",
+                "teamLeden": [
+                    "TvH",
+                    "FV2",
+                    "AvG2",
+                    "MT",
+                    "PQ",
+                    "FvH"
+                ],
+                "inBpoint": false
+            }
+        ]
+    },
+    {
+        "verId": "krijt",
+        "naam": "De Krijters",
+        "korteNaam": "Krijt",
+        "locatie": "wap",
+        "teams": [
+            {
+                "verId": "krijt",
+                "teamId": "3BA-B2-1",
+                "knbbId": "82133",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 1,
+                "naam": "De Krijters `84-2",
+                "teamLeden": [
+                    "FG",
+                    "MH3",
+                    "NK",
+                    "WJ",
+                    "LL",
+                    "MA",
+                    "AvB",
+                    "CS3",
+                    "AvD2",
+                    "JvB"
+                ],
+                "inBpoint": false
+            },
+            {
+                "verId": "krijt",
+                "teamId": "3BA-B2-2",
+                "knbbId": "82134",
+                "spelsoort": "3BA",
+                "klasse": "B2",
+                "volgNr": 2,
+                "naam": "De Krijters `84-3",
+                "teamLeden": [
+                    "MH3",
+                    "NK",
+                    "WJ",
+                    "LL",
+                    "MA",
+                    "AvB",
+                    "CS3",
+                    "AvD2",
+                    "JvB"
+                ],
+                "inBpoint": false
+            }
+        ]
+    }
+]

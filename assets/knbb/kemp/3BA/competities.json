@@ -1,0 +1,102 @@
+[
+    {
+        "competitieId": "B2-2-1",
+        "knbbId": "8015",
+        "seizoen": "2025-2026",
+        "district": "kemp",
+        "spelsoort": "3BA",
+        "klasse": "B2",
+        "volgNr": 2,
+        "poule": 1,
+        "naam": "Café 't Hangijzer",
+        "maxBeurten": 60,
+        "teams": [
+            {
+                "verId": "dab",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "karp",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "dab",
+                "teamId": "3BA-B2-2"
+            },
+            {
+                "verId": "vm",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "bvd",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "has",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "snv",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "dm",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "ekk",
+                "teamId": "3BA-B2-1"
+            },
+            {
+                "verId": "horn",
+                "teamId": "3BA-B2-1"
+            }
+        ]
+    },
+    {
+        "competitieId": "B1-1-1",
+        "knbbId": "8011",
+        "seizoen": "2025-2026",
+        "district": "kemp",
+        "spelsoort": "3BA",
+        "klasse": "B1",
+        "volgNr": 1,
+        "poule": 1,
+        "naam": "HAS Biljarts",
+        "maxBeurten": 60,
+        "teams": [
+            {
+                "verId": "bvd",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "nas2",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "mier",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "cav",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "karp",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "stj",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "mert",
+                "teamId": "3BA-B1-1"
+            },
+            {
+                "verId": "vh",
+                "teamId": "3BA-B1-1"
+            }
+        ]
+    }
+]
